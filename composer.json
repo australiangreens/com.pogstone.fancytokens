@@ -1,0 +1,14 @@
+{
+  "name": "australian_greens/com.pogstone.fancytokens",
+  "description": "CiviCRM Extension that adds more tokens for CiviMail operations",
+  "type": "drupal-module",
+  "authors": [
+    {
+      "name": "Sarah Poger Gladstone",
+      "homepage": "https://fountaintribe.com"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
